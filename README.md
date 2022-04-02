@@ -1,5 +1,5 @@
-## Mohammad Sofiyan 
-## 312010225
+## Reza Tariki Taser
+## 312010265
 ## TI.20.A2
 ## pemrograman Web
 
